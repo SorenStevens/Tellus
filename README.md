@@ -1,5 +1,5 @@
 # Tellus
-A multi-agent network that gathers and reports on weather and world events based on your location and interests. Website hosted at TO_BE_DETERMINED.XXX
+A multi-agent network that gathers and reports on weather and world events based on your location and interests. Website hosted at TO_BE_DETERMINED.SOMETHING
 
 ## Flexible data insights
 All of the model responses will depend on a location that you get to provide, so feel free to get creative and learn about regions in the U.S.
